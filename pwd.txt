@@ -1,0 +1,7 @@
+account&pwd:
+    sprbus
+    spr.0701_BUS,1806
+sprbus-doc:
+     git@github.com:sprbus/sprbus-doc.git
+sprbus-doc.wiki:
+     git@github.com:sprbus/sprbus-doc.wiki.git
